@@ -1,3 +1,7 @@
-# product-page
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/HARSHALSSSSS/product-page)
+## product page
+This product page is built using Next.js, a React framework that enables server-side rendering and static site generation for fast, SEO-friendly, and efficient web applications.
+##
+Technologies Used:
+Next.js: For server-side rendering and static generation.
+React.js: For building interactive UI components.
+CSS Modules/Tailwind CSS: For styling and responsive design
