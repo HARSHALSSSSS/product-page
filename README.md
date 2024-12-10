@@ -6,4 +6,4 @@ Next.js: For server-side rendering and static generation.
 React.js: For building interactive UI components.
 CSS Modules/Tailwind CSS: For styling and responsive design
 ## screenshot 
-![]()
+![](https://github.com/HARSHALSSSSS/product-page/blob/main/Screenshot%202024-12-10%20170845.png)
