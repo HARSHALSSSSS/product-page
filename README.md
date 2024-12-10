@@ -7,3 +7,4 @@ React.js: For building interactive UI components.
 CSS Modules/Tailwind CSS: For styling and responsive design
 ## screenshot 
 ![](https://github.com/HARSHALSSSSS/product-page/blob/main/Screenshot%202024-12-10%20170845.png)
+![](https://github.com/HARSHALSSSSS/product-page/blob/main/Screenshot%202024-12-10%20170853.png)
